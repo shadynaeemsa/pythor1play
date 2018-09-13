@@ -1,4 +1,4 @@
-token=NDg4NjUzNTA0ODExMTA2MzA0.DnkKJw.LVvYEwGYMTawiFkG-DOg59PIC1A
+client.login(process.env.BOT_TOKEN);
 owner=326099411853901824
 prefix=1
 game=Type 1play
