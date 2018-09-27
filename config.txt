@@ -4,4 +4,3 @@ prefix=1
 game=Type 1play
 stayinchannel=true
 songinstatus=true
- 
